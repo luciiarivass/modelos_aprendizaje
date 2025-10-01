@@ -1,2 +1,2 @@
 # modelos_aprendizaje
-prueba
+este es el readme.md actualizado
